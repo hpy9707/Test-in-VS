@@ -1,0 +1,34 @@
+﻿  Window.cpp
+  ThirdPersonCamera.cpp
+  TextureManager.cpp
+  TexturedShader.cpp
+  Texture.cpp
+  Shader.cpp
+  MeshManager.cpp
+  Mesh.cpp
+  Main.cpp
+  Kart.cpp
+  ItemBox.cpp
+  InputController.cpp
+  GameObject.cpp
+  Game.cpp
+  FlyingCamera.cpp
+e:\zuoye\2096\wek9\fit2096 week 7 base\fit2096 - week 7 base\fit2096 - week 7\flyingcamera.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Direct3D.cpp
+  Collisions.cpp
+e:\zuoye\2096\wek9\fit2096 week 7 base\fit2096 - week 7 base\fit2096 - week 7\collisions.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CollisionManager.cpp
+  Camera.cpp
+  Button.cpp
+e:\zuoye\2096\wek9\fit2096 week 7 base\fit2096 - week 7 base\fit2096 - week 7\button.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+DirectXTK_VS2015.lib(CommonStates.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(CommonStates.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2015.lib(BinaryReader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(BinaryReader.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2015.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(pch.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2015.lib(SimpleMath.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(SimpleMath.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2015.lib(SpriteBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(SpriteBatch.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2015.lib(SpriteFont.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(SpriteFont.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2015.lib(VertexTypes.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(VertexTypes.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK_VS2015.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK_VS2015.lib(WICTextureLoader.obj)' or at 'E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\DirectXTK.pdb'; linking object as if no debug info
+  FIT2096 - Week 7.vcxproj -> E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\FIT2096 - Week 7 Base.exe
+  FIT2096 - Week 7.vcxproj -> E:\zuoye\2096\wek9\FIT2096 Week 7 Base\FIT2096 - Week 7 Base\Debug\FIT2096 - Week 7 Base.pdb (Full PDB)
